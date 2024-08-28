@@ -37,7 +37,8 @@ electron .
 ---
 ### Contributing
 DVEA is always open for PRs!
- 
+
+Do not taunt Happy Fun Ball. 
 ---
 
 ### Credits
